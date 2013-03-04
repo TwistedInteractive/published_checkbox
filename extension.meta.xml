@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="published_checkbox" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Published Checkbox</name>
+	<description>A checkbox that can be used for publishing</description>
+	<repo type="github"></repo>
+	<types>
+		<type>Field</type>
+	</types>
+	<authors>
+		<author>
+			<name github="kanduvisla" symphony="kanduvisla">Giel Berkers</name>
+			<email>info@gielberkers.com</email>
+			<website>http://www.gielberkers.com</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2013-03-04" min="2.3" />
+	</releases>
+</extension>
