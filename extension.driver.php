@@ -1,9 +1,4 @@
 <?php
-/**
- * Created by Symphony Extension Developer.
- * 2013-03-04
- */
-
 class Extension_Published_checkbox extends Extension {
 
 	/**
@@ -17,9 +12,8 @@ class Extension_Published_checkbox extends Extension {
 			'release-date'	=> '2013-03-04',
 			'author'		=> array(
 				array(
-					'name' => 'Giel Berkers',
-					'website' => 'http://www.gielberkers.com',
-					'email' => 'info@gielberkers.com'
+					'name' => 'Twisted Interactive',
+					'website' => 'http://www.twisted.nl'
 				)
 			)
 		);
